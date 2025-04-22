@@ -1,6 +1,6 @@
 # Let's create the README.md file based on the detailed explanation.
 
-readme_content = """\
+
 # 📘 Factorial & Math Operations - Python Examples
 
 This project contains **three small Python scripts** that demonstrate different ways of calculating **factorials** and performing **basic mathematical operations** like square root, logarithm, and trigonometric functions using the built-in and `math` libraries in Python.
